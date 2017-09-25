@@ -1,0 +1,22 @@
+{
+  "name": "mtm6330---week-2",
+  "version": "1.0.0",
+  "description": "My Really first GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beli0074/mtm6330---week-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beli0074/mtm6330---week-2/issues"
+  },
+  "homepage": "https://github.com/beli0074/mtm6330---week-2#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
